@@ -1,0 +1,2 @@
+# WinningHorseAI
+Stock Analysis SLM 
